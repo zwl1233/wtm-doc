@@ -12,7 +12,16 @@
   <div id="app">加载中</div>
   <script>
     window.$docsify = {
-      loadSidebar: true
+      loadSidebar: true,//侧边菜单栏
+      autoHeader: true,//自动为每个页面的添加标题
+      subMaxLevel: 3,//侧边栏开启目录功能
+      repo: 'https://github.com/zwl1233/wtm-doc.git',//配置git仓库
+      maxLevel: 4,//默认抓取标题作为目录
+      auto2top: true,//自动跳转到顶部
+      coverpage: true,//启用封面页
+      name: 'WTM操作文档',//标题 显示在侧边栏头部
+      nameLink: 'https://github.com/zwl1233/wtm-doc.git',//点击标题 跳转路径
+      externalLinkTarget: '_self',//链接跳转形式
     }
   </script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
