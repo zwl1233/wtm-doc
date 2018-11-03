@@ -8,4 +8,5 @@
 
 **详细信息:**
 * [基类](StoreBasic/)
-* [ajax](Ajax/)
+* [Ajax](Ajax/)
+* [权限](Authority/)
