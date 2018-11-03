@@ -19,6 +19,9 @@
 
 ```
 	$ npm run wtm
+	$ wtm server
+
+	
 ```
 
 ![Alt text](../_img/模板服务.png)

@@ -5,3 +5,7 @@
 **定制化:**
 * [模板解析](Module/)
 * [配置](selfDefined/)
+
+**详细信息:**
+* [基类](StoreBasic/)
+* [ajax](Ajax/)
