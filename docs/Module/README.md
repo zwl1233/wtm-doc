@@ -86,4 +86,4 @@
     });
 ```
 !> 文件所在路径：
-<img src="../_img/模板解析.png" width="150%">
+![Alt text](../_img/模板解析.png)

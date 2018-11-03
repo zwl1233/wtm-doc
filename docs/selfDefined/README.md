@@ -181,4 +181,4 @@ render(){
 
 ?> 模板编写目录:"wtmfront/template"
 
-<img src="../_img/模板目录.png" width="30%">
+![Alt text](../_img/模型目录.png)

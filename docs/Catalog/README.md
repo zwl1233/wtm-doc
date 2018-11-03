@@ -38,7 +38,8 @@
 - 菜单名称:`位于页面左侧菜单的名称`
 - 菜单Icon:`左侧菜单的小图标,图标选择参照ant-design的Icon命名`
 - 模板:`选择对应的模板`
-<img src="../_img/组件信息.png" width="150%">
+
+![Alt text](../_img/组件信息.png)
 
 ## 模型配置
 > 
@@ -46,15 +47,16 @@
 - 搜索条件：`选择搜索条件`
 - 添加&修改:`选择table的编辑权限`
 - 操作权限:`对应功能按钮的权限`
-<img src="../_img/模型配置.png" width="150%">
+
+![Alt text](../_img/模型配置.png)
 
 ## 组件生成
 !> 可一次性生成多个组件。
 
 > 
-<img src="../_img/组件生成.png" width="150%">
+![Alt text](../_img/组件生成.png)
 
 ## 组件修改
 > 
-<img src="../_img/组件修改.png" width="150%">
+![Alt text](../_img/组件修改.png)
 
